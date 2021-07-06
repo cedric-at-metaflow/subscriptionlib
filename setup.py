@@ -8,7 +8,7 @@ setup(
   author = 'Cedric Chalhoub @ Metaflow',                   # Type in your name
   author_email = 'cedric.chalhoub@metaflow.ca',      # Type in your E-Mail
   url = 'https://github.com/cedric-at-metaflow/subscriptionlib',   # Provide either the link to your github or to your website
-  download_url='https://github.com/cedric-at-metaflow/subscriptionlib/archive/refs/tags/v_01.tar.gz',
+  download_url='https://github.com/cedric-at-metaflow/subscriptionlib/archive/refs/tags/0.1.tar.gz',
   keywords = ['Zoho Subscriptions', 'Subscriptions', 'Customer'],   # Keywords that define your package best
   install_requires=[
     'requests'
